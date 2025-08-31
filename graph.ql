@@ -5,4 +5,4 @@ InsureMind/
 ├─ requirements.txt
 ├─ README.md
 └─ docs/
-   └─ InsureAI_project_summary.pdf   <-- 2-page project document (download below)
+   └─ InsureAI_project_summary.pdf   
