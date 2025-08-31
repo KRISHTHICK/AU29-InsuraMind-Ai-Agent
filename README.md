@@ -18,3 +18,13 @@ Ai Agent
 
 ## Notes
 - The app is a demo. For production, add authentication, encrypted storage for PII, logging, and replace the simple retrieval with embeddings+vector DB.
+
+- How this shows "real-time impact"
+
+In the Streamlit UI you get:
+
+Conversations handled count (incremental)
+
+Average latency
+
+A simple "impact" progress indicator computed from agent heuristics (triage urgency, confidence). These are lightweight proxies for real-time impact to show stakeholders immediate value without complex instrumentation.
